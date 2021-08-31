@@ -5,7 +5,7 @@ import "./index.css";
 // setup vars
 const books = [
   {
-    author: "Bessel van der Kolk M.D.",
+    author: "Bessels van der Kolk M.D.",
     title:
       "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
     img: "https://images-na.ssl-images-amazon.com/images/I/61NdJMwAThS._AC_UL200_SR200,200_.jpg",
